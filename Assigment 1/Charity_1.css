@@ -1,0 +1,103 @@
+
+.title {
+	font-size: 30px;
+	font-family: century gothic, futura, sans-serif;
+	color: black;
+	padding: 25px;
+	background-color: white;
+	margin-left:-10px;
+	margin-right: -10px;
+}
+
+.donate {
+	font-size: 24px;
+	font-family: century gothic, futura, sans-serif;
+	color: grey;
+	padding: 25px;
+	background-color: white;
+	background-color: lightGrey;
+	opacity: 0;
+	transition: opacity 2s;
+	margin-left:-10px;
+	margin-right: -10px;
+}
+
+	.donate:hover {
+		color: black;
+		opacity: 1;
+	}
+
+	.donate-text {
+		color: white;
+		font-size: 18px;
+	}
+
+.why.water {
+	font-size: 24px;
+	font-family: century gothic, futura, sans-serif;
+	color: grey;
+	padding: 25px;
+	background-color: lightGrey;
+	opacity: 0;
+	transition: opacity 2s;
+	margin-left:-10px;
+	margin-right: -10px;
+}
+
+	.why.water:hover {
+		color: black;
+		opacity: 1;
+	}
+
+	.why-water-text {
+		color: white;
+		font-size: 18px;
+	}
+
+.current.projects {
+	font-size: 24px;
+	font-family: century gothic, futura, sans-serif;
+	color: grey;
+	padding: 25px;
+	background-color: lightGrey;
+	opacity: 0;
+	transition: opacity 2s;
+	margin-left:-10px;
+	margin-right: -10px;
+}
+
+	.current.projects:hover {
+		color: black;
+		opacity: 1;
+	}
+
+	.current-projects-text {
+		color: white;
+		font-size: 18px;
+	}
+
+.about.us {
+	font-size: 24px;
+	font-family: century gothic, futura, sans-serif;
+	color: grey;
+	padding: 25px;
+	background-color: lightGrey;
+	opacity: 0;
+	transition: opacity 2s;
+	margin-left:-10px;
+	margin-right: -10px;
+
+}
+
+	.about.us:hover {
+		color: black;
+		opacity: 1;
+	}
+
+	.about-us-text {
+		color: white;
+		font-size: 18px;
+	}
+
+
+

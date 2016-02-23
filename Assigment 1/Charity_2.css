@@ -1,0 +1,142 @@
+
+.title {
+	display: inline-block;
+	position: fixed;
+	font-size: 30px;
+	font-family: century gothic, futura, sans-serif;
+	color: black;
+	padding: 15px;
+	background-color: white;
+	margin-top: -10px;
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+
+
+.text-container {
+	margin-left: 250px;
+	margin-right:200px;
+}	
+
+.p.one {
+	margin-top: 55px;
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.one:hover {
+	color: black;
+}
+
+.p.two {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.two:hover {
+	color: black;
+}
+
+.p.three {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.three:hover {
+	color: black;
+}
+
+.p.four {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.four:hover {
+	color: black;
+}
+
+.p.five {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.five:hover {
+	color: black;
+}
+
+.p.six {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.six:hover {
+	color: black;
+}
+
+.p.seven {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.seven:hover {
+	color: black;
+}
+
+.p.eight {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.eight:hover {
+	color: black;
+}
+
+.p.nine {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.nine:hover {
+	color: black;
+}
+
+.p.ten {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.ten:hover {
+	color: black;
+}
+
+.p.eleven {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.eleven:hover {
+	color: black;
+}
+
+.p.twelve {
+	font-size: 18px;
+	font-family: century gothic, futura, sans-serif;
+	color: lightGrey;
+}
+
+.p.twelve:hover {
+	color: black;
+}
+
