@@ -1,0 +1,100 @@
+.bodyText {
+	font-family: helvetica, sans-serif;
+	font-size: 22px;
+	color: white
+}
+
+.one {
+	display: inline-block;
+	position: relative;
+  	width: 300px;
+  	height: 300px;
+  	padding: 10px;
+  	background: white;
+  	animation-name: appear;
+	animation-duration: 4s;
+	animation-iteration-count: 134578765;
+	animation-delay: 1s;
+	animation-timing-fuction: ease-in-out;
+}
+
+.two {
+	display: inline-block;
+	position: relative;
+	margin-top: 10px;
+  	width: 300px;
+  	height: 300px;
+  	padding: 10px;
+  	background: white;
+  	animation-name: appear;
+	animation-duration: 4s;
+	animation-iteration-count: 134578765;
+	animation-delay: 2.5s;
+	animation-timing-fuction: ease-in-out
+}
+
+.three {
+	display: inline-block;
+	position: relative;
+  	width: 300px;
+  	height: 300px;
+  	padding: 10px;
+  	background: white;
+  	animation-name: appear;
+	animation-duration: 4s;
+	animation-iteration-count: 134578765;
+	animation-delay: 4s;
+	animation-timing-fuction: ease-in-out
+}
+
+
+.four {
+	display: inline-block;
+	position: relative;
+  	width: 300px;
+  	height: 300px;
+  	padding: 10px;
+  	background: white;
+  	animation-name: appear;
+	animation-duration: 4s;
+	animation-iteration-count: 134578765;
+	animation-delay: 5.5s;
+	animation-timing-fuction: ease-in-out
+}
+
+.five {
+	display: inline-block;
+	position: relative;
+  	width: 300px;
+  	height: 300px;
+  	padding: 10px;
+  	background: white;
+  	animation-name: appear;
+	animation-duration: 4s;
+	animation-iteration-count: 134578765;
+	animation-delay: 7s;
+	animation-timing-fuction: ease-in-out
+}
+
+.six {
+	display: inline-block;
+	position: relative;
+  	width: 300px;
+  	height: 300px;
+  	padding: 10px;
+  	background: white;
+  	animation-name: appear;
+	animation-duration: 4s;
+	animation-iteration-count: 134578765;
+	animation-delay: 8.5s;
+	animation-timing-fuction: ease-in-out
+}
+
+
+@keyframes appear {
+	from {color: white;}
+	to {color: grey;}
+}	
+
+
+
