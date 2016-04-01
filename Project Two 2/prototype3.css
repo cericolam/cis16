@@ -1,0 +1,35 @@
+.body1 {
+	font-size: 48px;
+	font-family: Josef reduced;
+	color: red;
+	opacity: .3;
+	line-height: .9;
+	word-spacing: .7;
+	margin-right: -110px;
+	margin-left: -20px;
+	text-align: left;
+}
+
+.title {
+	position: fixed;
+	font-size: 74px;
+	font-family: Josef reduced;
+	color: black;
+	margin-left: 120px;
+	margin-top: -800px;
+}
+
+.subtitle{
+	font-size: 37px;
+	position: fixed;
+	font-family: Josef reduced;
+	color: black;
+	margin-left: 120px;
+	margin-top: -720px;
+}
+
+
+@font-face {
+  font-family: Josef reduced, sans-serif;
+  src: url("Josef_reduced-Regular.otf")
+}
