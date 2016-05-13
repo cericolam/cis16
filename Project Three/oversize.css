@@ -1,0 +1,93 @@
+body {
+  background-color: white;
+  color: black;
+}
+
+.phrase1 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase2 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase3 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase4 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase5 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase6 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase7 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase8 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase9 {
+  display: none;
+  font-size: 200px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
+
+.phrase10 {
+  font-size: 250px;
+  font-family: times new roman, serif;
+  position: relative;
+  text-align: center;
+  line-height: 1;
+}
